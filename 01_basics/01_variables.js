@@ -7,5 +7,5 @@ accountCity="Jaipur";
 
 accountEmail="souvik2002maity@gmail.com";
 accountPassword=54321;
-accountCity="Mumbai";
+accountCity="Delhi";
 console.table([accountId,accountEmail,accountPassword,accountCity]);
