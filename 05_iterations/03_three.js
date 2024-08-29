@@ -19,6 +19,7 @@ const map=new Map();
 map.set('In', "India");
 map.set('USA', "United States of America");
 map.set('Fr', "France");
+map.set('In', "India");
 
 // console.log(map);
 
@@ -31,5 +32,5 @@ const myObject={
     game2: "SpiderMan"
 }
 // for (const [key,value] of myObject) {
-//     console.log(`${ke} :- ${value}`);
+//     console.log(`${key} :- ${value}`);
 // }
